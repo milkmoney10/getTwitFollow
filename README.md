@@ -10,11 +10,9 @@ source bin/activate
 <br>
 pip install -r requirements.txt
 <br>
-<br>
 Add your keys/tokens and Twitter handles you want to look up
 <br>
-<br>
-run with: python3 twitFollowNoUi.py
+Run with: python3 twitFollowNoUi.py
 <br>
 Example output:
 
