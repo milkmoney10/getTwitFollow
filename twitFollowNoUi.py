@@ -4,7 +4,7 @@ import json
 #add your keys/tokens below
 apikey = ""
 secretkey = ""
-bearertoken = ''
+bearertoken = ""
 
 headers = {
     'Authorization': f"Bearer {bearertoken}",
